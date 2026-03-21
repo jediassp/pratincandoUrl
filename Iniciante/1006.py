@@ -11,4 +11,4 @@ c = float(input())
 media_1 = a*2
 media_2 = b*3
 media_3 = c*5
-print('MEDIA = {:.1f}'.format((media_1+media_2+media_3)/10))))
+print('MEDIA = {:.1f}'.format((media_1+media_2+media_3)/10))
